@@ -12,6 +12,7 @@ if (wantApple <= stockApple) {
 }
 
 let i = 0;
+
 while (i < addCount) {
   console.log("りんごをカートに追加しました");
   i++;
